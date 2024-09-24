@@ -8,7 +8,7 @@ const AppWrap = (Component,idName, classNames) => function HOC(){
       <div className='app__wrapper app__flex'>
         <Component/>
         <div className='copyright'>
-          <p className='p-text'>@2023 Ghaith</p>
+          <p className='p-text'>@2024 Ghaith</p>
           <p className='p-text'>All Rights Reserved</p>
         </div>
       </div>
